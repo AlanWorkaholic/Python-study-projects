@@ -1,0 +1,11 @@
+pi = 3.14
+r = 10
+S = pi*r*r
+print ('S = ',S)
+b = 10
+h = 2
+perimetr = 2*(b+h)
+print ('Периметр прямоугольника со сторонами',b,'и',h,'=',perimetr)
+b = 6
+perimetr = 2*(b+h)
+print ('Периметр прямоугольника со сторонами',b,'и',h,'=',perimetr)
